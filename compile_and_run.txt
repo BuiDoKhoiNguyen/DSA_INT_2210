@@ -1,0 +1,2 @@
+javac -classpath ".;c:\Program Files\Java\algs4.jar" file_name.java
+java -classpath ".;c:\Program Files\Java\algs4.jar" file_name.java
