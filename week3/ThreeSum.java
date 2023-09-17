@@ -36,7 +36,7 @@ public class ThreeSum {
     }
 
     public static void main(String[] args)  {
-        In in = new In("algs4-data/2Kints.txt");
+        In in = new In("C:\\Users\\nguye\\IdeaProjects\\algs4\\algs4-data\\2Kints.txt");
         int[] a = in.readAllInts();
 
         Stopwatch timer = new Stopwatch();
