@@ -1,0 +1,85 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "NSum",
+            "request": "launch",
+            "mainClass": "week3.NSum",
+            "projectName": "DSA_INT_2210_c18d638b"
+        },
+        {
+            "type": "java",
+            "name": "ThreeSum",
+            "request": "launch",
+            "mainClass": "week3.ThreeSum",
+            "projectName": "DSA_INT_2210_c18d638b"
+        },
+        {
+            "type": "java",
+            "name": "ThreeSumFast",
+            "request": "launch",
+            "mainClass": "week3.ThreeSumFast",
+            "projectName": "DSA_INT_2210_c18d638b"
+        },
+        {
+            "type": "java",
+            "name": "ThreeSumFastest",
+            "request": "launch",
+            "mainClass": "week3.ThreeSumFastest",
+            "projectName": "DSA_INT_2210_c18d638b"
+        },
+        {
+            "type": "java",
+            "name": "TwoSum",
+            "request": "launch",
+            "mainClass": "week3.TwoSum",
+            "projectName": "DSA_INT_2210_c18d638b"
+        },
+        {
+            "type": "java",
+            "name": "UFClient",
+            "request": "launch",
+            "mainClass": "week3.UFClient",
+            "projectName": "DSA_INT_2210_c18d638b"
+        },
+        {
+            "type": "java",
+            "name": "UFClient2",
+            "request": "launch",
+            "mainClass": "week3.UFClient2",
+            "projectName": "DSA_INT_2210_c18d638b"
+        },
+        {
+            "type": "java",
+            "name": "BonusLinkedListQuery",
+            "request": "launch",
+            "mainClass": "week4.BonusLinkedListQuery",
+            "projectName": "DSA_INT_2210_c18d638b"
+        },
+        {
+            "type": "java",
+            "name": "FirstGreater",
+            "request": "launch",
+            "mainClass": "week4.FirstGreater",
+            "projectName": "DSA_INT_2210_c18d638b"
+        },
+        {
+            "type": "java",
+            "name": "SelectionSort",
+            "request": "launch",
+            "mainClass": "week4.SelectionSort",
+            "projectName": "DSA_INT_2210_c18d638b"
+        }
+    ]
+}
