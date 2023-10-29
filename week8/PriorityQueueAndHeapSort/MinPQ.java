@@ -16,8 +16,9 @@
  *  (ala insertion sort).
  *
  ******************************************************************************/
+package week8.PriorityQueueAndHeapSort;
+import edu.princeton.cs.algs4.*;
 
-package edu.princeton.cs.algs4;
 
 import java.util.Comparator;
 import java.util.Iterator;

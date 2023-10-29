@@ -20,8 +20,8 @@
  *  all bad bed bug dad ... yes yet zoo   [ one string per line ]
  *
  ******************************************************************************/
-
-package edu.princeton.cs.algs4;
+package week8.PriorityQueueAndHeapSort;
+import edu.princeton.cs.algs4.*;
 
 /**
  *  The {@code Heap} class provides a static method to sort an array
