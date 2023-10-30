@@ -3,7 +3,7 @@ package week3;
 import edu.princeton.cs.algs4.*;
 import java.util.Arrays;
 
-public class ThreeSumFastest {
+public class ThreeSumN2 {
 
     public static void printAll(int[] a) {
         int n = a.length;
