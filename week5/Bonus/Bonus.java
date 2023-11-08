@@ -9,7 +9,7 @@ class Bonus {
         Stack<Integer> s = new Stack<Integer>();
         s.push(arr[0]);
 
-        System.out.print("-1, ");
+        System.out.print("-1 ");
 
         for (int i = 1; i < n; i++) {
 
@@ -21,7 +21,7 @@ class Bonus {
             if (s.empty() == true)
                 System.out.print("-1, ");
             else
-                System.out.print(s.peek() + ", ");
+                System.out.print(s.peek() + " ");
 
             s.push(arr[i]);
         }
