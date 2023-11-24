@@ -53,7 +53,7 @@ public class Solution {
             root = insert(root, data);
         }
         scan.close();
-        boolean check = new CheckBST().checkBST(root);
+        boolean check = new Solution().checkBST(root);
         System.out.println(check ? "Yes" : "No");
     }
 }
