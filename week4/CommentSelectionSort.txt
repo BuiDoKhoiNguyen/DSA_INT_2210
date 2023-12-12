@@ -1,4 +1,0 @@
-Thời gian chạy của Selection Sort với các mảng nhỏ gần như bằng 0
-Tuy nhiên, khi kích thước của dãy số tăng lên (ví dụ: hàng trăm, nghìn, hoặc lớn hơn), 
-thời gian chạy của thuật toán sẽ tăng đáng kể. Selection sort có độ phức tạp thời gian là O(n^2), 
-nghĩa là thời gian thực thi tăng theo bình phương của kích thước đầu vào
