@@ -1,7 +1,4 @@
-package week11.FindTheRunningMedian;
 import java.util.*;
-
-import org.w3c.dom.Node;
 
 public class FindTheRunningMedian {
     private static class Node implements Comparable<Node> {
@@ -17,7 +14,6 @@ public class FindTheRunningMedian {
             return key;
         }
 
-        @Override
         public int compareTo(Node o) {
             int cmp = Double.compare(this.key, o.key);
             if (cmp != 0) {
@@ -25,7 +21,7 @@ public class FindTheRunningMedian {
             } else {
                 return Double.compare(this.value, o.value);
             }
-        }
+        }   
     }
 
     public static List<Double> runningMedian(List<Integer> a) {

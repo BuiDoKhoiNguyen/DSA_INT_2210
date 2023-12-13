@@ -1,4 +1,3 @@
-package BT11.BT12.RoadsAndLibraries;
 import java.util.ArrayList;
 import java.util.Scanner;
 
